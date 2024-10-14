@@ -26,6 +26,10 @@
   border-radius: 4px;
 }
 
+.button:hover {
+  cursor: pointer;
+}
+
 .green {
   background-color: lightgreen;
 }
