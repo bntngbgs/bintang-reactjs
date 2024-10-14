@@ -1,0 +1,29 @@
+.inputwrapper {
+  margin-top: 2rem;
+  background-color: #61dafb;
+  max-width: 640px;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  margin-inline: auto;
+  text-align: left;
+}
+
+.title {
+  color: white;
+  font-size: 1.35rem;
+}
+
+.inputtext {
+  margin-top: 0.75rem;
+}
+
+.input {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+}
+
+.inputresult {
+  margin-top: 0.5rem;
+  font-size: 1.15rem;
+  color: white;
+}

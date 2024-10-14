@@ -1,0 +1,59 @@
+.counterwrapper {
+  background-color: #61dafb;
+  max-width: 640px;
+  /* padding: 1.5rem 1.75rem; */
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  margin: auto;
+  text-align: left;
+}
+
+.title {
+  color: white;
+  font-size: 1.35rem;
+}
+
+.counter {
+  margin-top: 1rem;
+  font-size: 1.75rem;
+  display: flex;
+  /* gap: 1rem; */
+  /* align-items: center; */
+  /* background-color: blue; */
+  /* color: white; */
+}
+
+.count {
+  background-color: white;
+  color: #61dafb;
+  padding-inline: 1rem;
+
+  cursor: pointer;
+  border: 1px solid white;
+  /* height: 20px; */
+}
+
+.displaycount {
+  color: white;
+  padding-inline: 1rem;
+}
+
+.minus {
+  color: crimson;
+  border-radius: 4px 0 0 4px;
+}
+
+.plus {
+  color: green;
+  border-radius: 0 4px 4px 0;
+}
+
+.plus,
+.minus {
+  border: 1px solid lightgrey;
+}
+
+.plus:hover,
+.minus:hover {
+  background-color: gainsboro;
+}

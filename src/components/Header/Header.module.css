@@ -1,0 +1,16 @@
+.appheader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.applogo {
+  height: 168px;
+  pointer-events: none;
+}
+
+.headertext {
+  color: #61dafb;
+  font-size: 4rem;
+  font-family: 'Fugaz One', serif;
+}
